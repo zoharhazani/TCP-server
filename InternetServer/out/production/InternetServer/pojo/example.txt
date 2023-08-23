@@ -1,0 +1,19 @@
+
+
+
+Submarines:
+Valid input with 2 submarines
+[1, 0, 0, 0, 0]
+[1, 0, 1, 1, 1]
+[0, 0, 1, 1, 1]
+
+Valid input with 2 submarines
+[1, 0, 0, 0, 0]
+[1, 0, 1, 1, 1]
+[1, 0, 1, 1, 1]
+
+
+Invalid input
+[1, 0, 0, 0, 0]
+[1, 0, 1, 0, 1]
+[1, 0, 1, 1, 1]

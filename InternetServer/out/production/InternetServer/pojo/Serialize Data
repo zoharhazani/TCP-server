@@ -1,0 +1,5 @@
+If we want to persist a Reference type value (some object) or primitive value, the state of the object ought to
+be converted to a stream of bytes. This is called Deserialization
+
+The process in which we take a stream of bytes and give it meaning (address it as a map for a drone/matrix/whatever) and convert
+it to another meaningful representation
